@@ -7,17 +7,3 @@
   height: 200px;
   border: 10px solid black;
 }
-
-.contenedorBtn {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.btnApp {
-  background-color: #ccc;
-  color: #000;
-  border: 2px solid #000;
-  border-radius: 5px;
-  padding: 5px 15px;
-}
